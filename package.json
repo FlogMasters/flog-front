@@ -10,9 +10,11 @@
     "@types/node": "^12.12.54",
     "@types/react-dom": "^16.9.8",
     "eslint-config-airbnb": "^18.2.0",
+    "immutable": "^4.0.0-rc.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "redux": "^4.0.5",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -61,6 +63,7 @@
   },
   "devDependencies": {
     "@types/react": "^16.9.49",
-    "react-app-rewired": "^2.1.6"
+    "react-app-rewired": "^2.1.6",
+    "webpack": "^4.44.1"
   }
 }
