@@ -15,6 +15,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
     "redux": "^4.0.5",
+    "styled-components": "^5.2.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -63,7 +64,6 @@
   },
   "devDependencies": {
     "@types/react": "^16.9.49",
-    "react-app-rewired": "^2.1.6",
-    "webpack": "^4.44.1"
+    "react-app-rewired": "^2.1.6"
   }
 }
